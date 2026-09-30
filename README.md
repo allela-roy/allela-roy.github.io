@@ -27,8 +27,8 @@ Content, blogs and assets
 ## Reinforcement Learning and Physical AI
 
 * [Blog] [Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/)
-* [Code Sample] [NVIDIA Isaac Lab distributed RL training on SageMaker HyperPod and Training Jobs](https://github.com/awslabs/awsome-distributed-ai/tree/main/3.test_cases/pytorch/nvidia-isaac-lab)
-* [Code Sample] [Scaling RL post-training (GRPO/RLHF) with SLIME on SageMaker HyperPod EKS](https://github.com/awslabs/awsome-distributed-ai/tree/main/3.test_cases/pytorch/slime)
+* [Code Sample] [NVIDIA Isaac Lab distributed RL training on SageMaker HyperPod and Training Jobs](https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/use-cases/isaac-lab)
+* [Code Sample] [Scaling RL post-training (GRPO/RLHF) with SLIME on SageMaker HyperPod EKS](https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/training/slime)
 
 ## Orchestration, Tooling, Profiling
 
