@@ -16,7 +16,7 @@ Technical Content, blogs and assets
 
 * [Blog] [Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery](https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/)
 
-*  [Workshop] [Distributed training at scale with Slurm on Amazon SageMaker HyperPod](hhttps://catalog.us-east-1.prod.workshops.aws/workshops/0c3c9836-e932-4eb3-9c35-997d903efbc1/en-US)
+*  [Workshop] [Distributed training at scale with Slurm on Amazon SageMaker HyperPod](https://catalog.us-east-1.prod.workshops.aws/workshops/0c3c9836-e932-4eb3-9c35-997d903efbc1/en-US)
 
 *   [Workshop] [Going Native: PyTorch on Trainium with Neuron on SageMaker HyperPod)](https://catalog.us-east-1.prod.workshops.aws/workshops/3bc63fc4-76ff-40ab-aef3-b16cbfb868d3/en-US)
 
