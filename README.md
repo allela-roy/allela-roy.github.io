@@ -5,7 +5,7 @@ Technical Content, blogs and assets
 
 * [Conference Poster 2025] [Building Resilient Foundation Model Training Pipelines with SageMaker HyperPod and TorchFT — PyTorch Conference 2025](https://github.com/meta-pytorch/torchft/blob/main/media/torchft_hyperpod_poster_pytorch_conference_2025.pdf) 
 
-* [Conference Poster 2024] [Efficient Pre-training of Llama3-like architectures using torchtitan on Amazon SageMaker — PyTorch Conference 2024](https://github.com/allela-roy/tech_resources/blob/main/PyTorch%202024-Efficient%20Pre-training%20of%20Llama3-like%20architectures%20using%20torchtitan%20library%20on%20Amazon%20SageMaker.pdf) , [Code Sample] [torchtitan on SageMaker HyperPod](https://github.com/awslabs/awsome-distributed-ai/tree/main/3.test_cases/pytorch/torchtitan)
+* [Conference Poster 2024] [Efficient Pre-training of Llama3-like architectures using torchtitan on Amazon SageMaker — PyTorch Conference 2024](https://github.com/allela-roy/tech_resources/blob/main/PyTorch%202024-Efficient%20Pre-training%20of%20Llama3-like%20architectures%20using%20torchtitan%20library%20on%20Amazon%20SageMaker.pdf) , [Code Sample] [torchtitan on SageMaker HyperPod](https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/training/torchtitan)
 
 
 ## Distributed Training 
