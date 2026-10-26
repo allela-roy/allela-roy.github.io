@@ -3,6 +3,8 @@ Technical Content, blogs and assets
 
 ## PyTorch Conference
 
+* [Conference Poster 2026] [Train Across Your Entire GPU Fleet: Heterogeneous Mixed-Generation Training in Pure PyTorch — PyTorch Conference 2026](https://github.com/allela-roy/tech_resources/blob/main/PT2026_Train%20Across%20Your%20Entire%20GPU%20Fleet-%20Heterogeneous%20Mixed-Generation%20Training%20in%20Pure%20PyTorch.pdf) 
+
 * [Conference Poster 2025] [Building Resilient Foundation Model Training Pipelines with SageMaker HyperPod and TorchFT — PyTorch Conference 2025](https://github.com/meta-pytorch/torchft/blob/main/media/torchft_hyperpod_poster_pytorch_conference_2025.pdf) 
 
 * [Conference Poster 2024] [Efficient Pre-training of Llama3-like architectures using torchtitan on Amazon SageMaker — PyTorch Conference 2024](https://github.com/allela-roy/tech_resources/blob/main/PyTorch%202024-Efficient%20Pre-training%20of%20Llama3-like%20architectures%20using%20torchtitan%20library%20on%20Amazon%20SageMaker.pdf) , [Code Sample] [torchtitan on SageMaker HyperPod](https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/training/torchtitan)
