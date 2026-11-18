@@ -18,9 +18,13 @@ Technical Content, blogs and assets
 
 * [Blog] [Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery](https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/)
 
-*  [Workshop] [Distributed training at scale with Slurm on Amazon SageMaker HyperPod](https://catalog.us-east-1.prod.workshops.aws/workshops/0c3c9836-e932-4eb3-9c35-997d903efbc1/en-US)
+* [Blog] [Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/)
 
-*   [Workshop] [Going Native: PyTorch on Trainium with Neuron on SageMaker HyperPod)](https://catalog.us-east-1.prod.workshops.aws/workshops/3bc63fc4-76ff-40ab-aef3-b16cbfb868d3/en-US)
+* [Workshop] [Distributed training at scale with Slurm on Amazon SageMaker HyperPod](https://catalog.us-east-1.prod.workshops.aws/workshops/0c3c9836-e932-4eb3-9c35-997d903efbc1/en-US)
+
+* [Workshop] [Going Native: PyTorch on Trainium with Neuron on SageMaker HyperPod)](https://catalog.us-east-1.prod.workshops.aws/workshops/3bc63fc4-76ff-40ab-aef3-b16cbfb868d3/en-US)
+
+* [Blog] [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
 
 * [Blog] [Accelerate Mixtral 8x7B pre-training with expert parallelism on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/accelerate-mixtral-8x7b-pre-training-with-expert-parallelism-on-amazon-sagemaker/)
 
@@ -34,6 +38,8 @@ Technical Content, blogs and assets
 * [Blog] [Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/)
 * [Code Sample] [NVIDIA Isaac Lab distributed RL training on SageMaker HyperPod and Training Jobs](https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/use-cases/isaac-lab)
 * [Code Sample] [Scaling RL post-training (GRPO/RLHF) with SLIME on SageMaker HyperPod EKS](https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/training/slime)
+
+* [Workshop] [Physical AI on Amazon SageMaker HyperPod)](https://catalog.us-east-1.prod.workshops.aws/workshops/00b35c0d-b380-4107-a60c-a9a07cfcc906/en-US)
 
 ## Orchestration, Tooling, Profiling
 
